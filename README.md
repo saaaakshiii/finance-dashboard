@@ -138,3 +138,4 @@ src/
 
 This project was developed for evaluation purposes as part of a frontend assignment.  
 It is intended solely for educational and demonstration use.
+=======
